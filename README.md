@@ -20,6 +20,9 @@ This project analyzes sales data to determine optimal sales times by hour and de
   - SEAFOOD
   - FLORAL
   - BASKETS
+    
+**Store Hours**:
+  - From 7AM until 9PM
 
 Negative sales amounts were excluded from the analysis to ensure accuracy.
 
